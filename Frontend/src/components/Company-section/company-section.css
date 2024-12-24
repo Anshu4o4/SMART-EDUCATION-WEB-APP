@@ -1,0 +1,10 @@
+.company-section {
+    text-decoration: none;
+
+}
+
+.company-section i:hover {
+    background: linear-gradient(-225deg, #42b24b 0%, #80bbff 52%, #a3fd88 100%);
+    border-radius: 50%;
+    transition: transform ease 0.3s;
+}
